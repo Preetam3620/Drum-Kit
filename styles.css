@@ -9,7 +9,12 @@ h1 {
     font-family: "Arvo", cursive;
     text-shadow: 3px 0 #da0463;
 }
+.guitar{
+    margin-left:10rem;
+    margin-top:2rem;
+    block:inline;
 
+}
 footer {
     color: #dbedf3;
     font-family: sans-serif;
