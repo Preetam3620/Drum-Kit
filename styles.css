@@ -66,6 +66,10 @@ footer {
     color: red;
 }
 
+.blue{
+    color:blue;
+}
+
 .drum {
     outline: none;
     border: 10px solid #404b69;
